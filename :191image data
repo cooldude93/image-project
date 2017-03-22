@@ -1,0 +1,3671 @@
+sizeF packed field:f5
+color tab flag:1
+color_resolution:7
+sorted:0
+exponent:5
+bg:3fpixel ratio:0
+size 64
+global tab size 64
+loop pointer:21, pos:cdloop pointer: 3, pos:cfimage data
+block_size:34
+min_code_size:47 blcok:
+34
+loop pointer: 0, pos:d3image data
+block_size:ff
+min_code_size:21 blcok:
+b
+loop pointer:4e, pos:d7image data
+block_size:54
+min_code_size:45 blcok:
+53
+loop pointer:43, pos:dbimage data
+block_size:50
+min_code_size:41 blcok:
+45
+loop pointer:32, pos:dfimage data
+block_size:30
+min_code_size:2e blcok:
+3
+loop pointer: 1, pos:e3image data
+block_size: 0
+min_code_size:0 blcok:
+loop pointer: 0, pos:e6image data
+block_size:f9
+min_code_size:21 blcok:
+4
+loop pointer: 0, pos:eaimage data
+block_size: 0
+min_code_size:a blcok:
+loop pointer:ff, pos:edimage data
+block_size:2c
+min_code_size:0 blcok:
+loop pointer: 0, pos:f1image data
+block_size: 0
+min_code_size:0 blcok:
+loop pointer:c8, pos:f4image data
+block_size:e6
+min_code_size:0 blcok:
+loop pointer: 5, pos:f8image data
+block_size:ff
+min_code_size:6 blcok:
+40
+loop pointer:80, pos:fcimage data
+block_size:48
+min_code_size:70 blcok:
+2c
+loop pointer:1a, pos:100image data
+block_size:c8
+min_code_size:8f blcok:
+ffffffa4
+loop pointer:72, pos:104image data
+block_size:6c
+min_code_size:c9 blcok:
+3a
+loop pointer:9f, pos:108image data
+block_size:a8
+min_code_size:d0 blcok:
+74
+loop pointer:4a, pos:10cimage data
+block_size:5a
+min_code_size:ad blcok:
+ffffffaf
+loop pointer:d8, pos:110image data
+block_size:76
+min_code_size:ac blcok:
+ffffffcb
+loop pointer:ed, pos:114image data
+block_size:bf
+min_code_size:7a blcok:
+ffffffe0
+loop pointer:b0, pos:118image data
+block_size:4c
+min_code_size:78 blcok:
+2e
+loop pointer:9b, pos:11cimage data
+block_size:e8
+min_code_size:cf blcok:
+ffffffb4
+loop pointer:7a, pos:120image data
+block_size:6e
+min_code_size:cd blcok:
+ffffffbb
+loop pointer:df, pos:124image data
+block_size:b8
+min_code_size:f0 blcok:
+7c
+loop pointer:4e, pos:128image data
+block_size:db
+min_code_size:af blcok:
+ffffffef
+loop pointer:f8, pos:12cimage data
+block_size:7e
+min_code_size:bc blcok:
+ffffffcf
+loop pointer:ef, pos:130image data
+block_size:ff
+min_code_size:fb blcok:
+ffffff80
+loop pointer:81, pos:134image data
+block_size:83
+min_code_size:82 blcok:
+ffffff84
+loop pointer:85, pos:138image data
+block_size:87
+min_code_size:86 blcok:
+ffffff88
+loop pointer:89, pos:13cimage data
+block_size:8b
+min_code_size:8a blcok:
+ffffff8c
+loop pointer:8d, pos:140image data
+block_size:8f
+min_code_size:8e blcok:
+ffffff90
+loop pointer:91, pos:144image data
+block_size:93
+min_code_size:92 blcok:
+ffffff94
+loop pointer:95, pos:148image data
+block_size:97
+min_code_size:96 blcok:
+ffffff98
+loop pointer:99, pos:14cimage data
+block_size: 4
+min_code_size:81 blcok:
+4
+loop pointer: e, pos:150image data
+block_size: e
+min_code_size:9d blcok:
+7
+loop pointer:9c, pos:154image data
+block_size:a3
+min_code_size:9a blcok:
+49
+loop pointer:1c, pos:158image data
+block_size:27
+min_code_size:24 blcok:
+2e
+loop pointer:a8, pos:15cimage data
+block_size:3f
+min_code_size:2e blcok:
+ffffffa8
+loop pointer:27, pos:160image data
+block_size: 7
+min_code_size:19 blcok:
+ffffffa4
+loop pointer:9a, pos:164image data
+block_size:a7
+min_code_size:9c blcok:
+2e
+loop pointer:2e, pos:168image data
+block_size:30
+min_code_size:2f blcok:
+ffffffb7
+loop pointer:3f, pos:16cimage data
+block_size:bb
+min_code_size:ab blcok:
+30
+loop pointer:a9, pos:170image data
+block_size:ae
+min_code_size:27 blcok:
+ffffffb1
+loop pointer:94, pos:174image data
+block_size:1c
+min_code_size:7 blcok:
+ffffffaa
+loop pointer:ad, pos:178image data
+block_size:b5
+min_code_size:b5 blcok:
+ffffffbd
+loop pointer:ba, pos:17cimage data
+block_size:b7
+min_code_size:3f blcok:
+ffffffc7
+loop pointer:bf, pos:180image data
+block_size:c1
+min_code_size:11 blcok:
+ffffff91
+loop pointer: 7, pos:184image data
+block_size:27
+min_code_size:19 blcok:
+28
+loop pointer:b8, pos:188image data
+block_size:d5
+min_code_size:d6 blcok:
+28
+loop pointer:b6, pos:18cimage data
+block_size:bd
+min_code_size:2e blcok:
+ffffffb6
+loop pointer:d6, pos:190image data
+block_size:19
+min_code_size:a9 blcok:
+ffffffd0
+loop pointer:8e, pos:194image data
+block_size:d3
+min_code_size:19 blcok:
+ffffffc6
+loop pointer:bf, pos:198image data
+block_size:c7
+min_code_size:bf blcok:
+30
+loop pointer:a8, pos:19cimage data
+block_size:cc
+min_code_size:d5 blcok:
+ffffffca
+loop pointer:b5, pos:1a0image data
+block_size:e0
+min_code_size:bf blcok:
+ffffffe1
+loop pointer:87, pos:1a4image data
+block_size:19
+min_code_size:4 blcok:
+26
+loop pointer:1d, pos:1a8image data
+block_size:a7
+min_code_size:a9 blcok:
+ffffffad
+loop pointer:2d, pos:1acimage data
+block_size:c6
+min_code_size:e6 blcok:
+ffffffa9
+loop pointer:a9, pos:1b0image data
+block_size:db
+min_code_size:2f blcok:
+ffffffb5
+loop pointer:74, pos:1b4image data
+block_size:8a
+min_code_size:a5 blcok:
+77
+loop pointer:e8, pos:1b8image data
+block_size:87
+min_code_size:40 blcok:
+13
+loop pointer:25, pos:1bcimage data
+block_size:9c
+min_code_size:4c blcok:
+22
+loop pointer:a1, pos:1c0image data
+block_size: 4
+min_code_size:f0 blcok:
+ffffffc3
+loop pointer:85, pos:1c4image data
+block_size:8c
+min_code_size:ad blcok:
+ffffffe1
+loop pointer:72, pos:1c8image data
+block_size:a2
+min_code_size:a1 blcok:
+5f
+loop pointer:2d, pos:1ccimage data
+block_size: 4
+min_code_size:13 blcok:
+b
+loop pointer:71, pos:1d0image data
+block_size:f1
+min_code_size:28 blcok:
+ffffff90
+loop pointer:84, pos:1d4image data
+block_size:8f
+min_code_size:c7 blcok:
+1c
+loop pointer:3d, pos:1d8image data
+block_size:34
+min_code_size:3a blcok:
+ffffff91
+loop pointer:f0, pos:1dcimage data
+block_size:b9
+min_code_size:9c blcok:
+66
+loop pointer:be, pos:1e0image data
+block_size:65
+min_code_size:60 blcok:
+fffffffc
+loop pointer:c3, pos:1e4image data
+block_size: 3
+min_code_size:29 blcok:
+ffffff89
+loop pointer: e, pos:1e8image data
+block_size:63
+min_code_size:2f blcok:
+76
+loop pointer:50, pos:1ecimage data
+block_size:b3
+min_code_size:8 blcok:
+23
+loop pointer:49, pos:1f0image data
+block_size: d
+min_code_size:8f blcok:
+4d
+loop pointer:44, pos:1f4image data
+block_size: 7
+min_code_size:2c blcok:
+6f
+loop pointer:e5, pos:1f8image data
+block_size:ff
+min_code_size:9f blcok:
+8
+loop pointer:30, pos:1fcimage data
+block_size:7e
+min_code_size:83 blcok:
+ffffff8c
+loop pointer:59, pos:200image data
+block_size:24
+min_code_size:4f blcok:
+ffffffce
+loop pointer:12, pos:204image data
+block_size:4f
+min_code_size:e blcok:
+ffffffb0
+loop pointer:38, pos:208image data
+block_size:ce
+min_code_size:e7 blcok:
+57
+loop pointer:4f, pos:20cimage data
+block_size:7b
+min_code_size:9f blcok:
+8
+loop pointer:18, pos:210image data
+block_size:40
+min_code_size:ec blcok:
+35
+loop pointer:68, pos:214image data
+block_size:97
+min_code_size:d5 blcok:
+35
+loop pointer:85, pos:218image data
+block_size:64
+min_code_size:d6 blcok:
+48
+loop pointer:52, pos:21cimage data
+block_size:3e
+min_code_size:e7 blcok:
+7d
+loop pointer:24, pos:220image data
+block_size:f6
+min_code_size:a0 blcok:
+ffffff89
+loop pointer: 0, pos:224image data
+block_size: 3
+min_code_size:41 blcok:
+ffffff87
+loop pointer:10, pos:228image data
+block_size:32
+min_code_size:1d blcok:
+54
+loop pointer:e5, pos:22cimage data
+block_size:81
+min_code_size:d0 blcok:
+ffffff83
+loop pointer:59, pos:230image data
+block_size:32
+min_code_size:aa blcok:
+3d
+loop pointer:6e, pos:234image data
+block_size:68
+min_code_size:fd blcok:
+62
+loop pointer: 5, pos:238image data
+block_size:87
+min_code_size:49 blcok:
+24
+loop pointer: 8, pos:23cimage data
+block_size:dd
+min_code_size:88 blcok:
+ffffffa3
+loop pointer:41, pos:240image data
+block_size:5f
+min_code_size:ad blcok:
+ffffffaa
+loop pointer:19, pos:244image data
+block_size:8e
+min_code_size:dc blcok:
+ffffffe3
+loop pointer:90, pos:248image data
+block_size:6c
+min_code_size:c1 blcok:
+ffffffe0
+loop pointer:b7, pos:24cimage data
+block_size:b7
+min_code_size:70 blcok:
+26
+loop pointer:4d, pos:250image data
+block_size:f0
+min_code_size:f8 blcok:
+ffffff80
+loop pointer:ca, pos:254image data
+block_size:76
+min_code_size:bd blcok:
+ffffff86
+loop pointer:8d, pos:258image data
+block_size:3c
+min_code_size:9b blcok:
+ffffffb9
+loop pointer:af, pos:25cimage data
+block_size:c3
+min_code_size:60 blcok:
+1d
+loop pointer:de, pos:260image data
+block_size:1d
+min_code_size:aa blcok:
+ffffffa1
+loop pointer:75, pos:264image data
+block_size:c8
+min_code_size:a8 blcok:
+e
+loop pointer:a0, pos:268image data
+block_size:df
+min_code_size:20 blcok:
+ffffff91
+loop pointer:16, pos:26cimage data
+block_size:b2
+min_code_size:81 blcok:
+69
+loop pointer:d3, pos:270image data
+block_size: 9
+min_code_size:84 blcok:
+7
+loop pointer:2e, pos:274image data
+block_size:55
+min_code_size:9c blcok:
+6e
+loop pointer:47, pos:278image data
+block_size: 7
+min_code_size:8f blcok:
+1c
+loop pointer:88, pos:27cimage data
+block_size:4c
+min_code_size:8e blcok:
+ffffffb9
+loop pointer:b4, pos:280image data
+block_size: c
+min_code_size:ed blcok:
+ffffffb7
+loop pointer:4b, pos:284image data
+block_size:4e
+min_code_size:4f blcok:
+6b
+loop pointer:98, pos:288image data
+block_size:eb
+min_code_size:ad blcok:
+ffffff98
+loop pointer:1f, pos:28cimage data
+block_size:3f
+min_code_size:41 blcok:
+ffffff9e
+loop pointer:2d, pos:290image data
+block_size:42
+min_code_size:27 blcok:
+4
+loop pointer: e, pos:294image data
+block_size:93
+min_code_size:c6 blcok:
+27
+loop pointer:c7, pos:298image data
+block_size:7c
+min_code_size:cd blcok:
+fffffff0
+loop pointer:b8, pos:29cimage data
+block_size:1a
+min_code_size:b6 blcok:
+ffffffb2
+loop pointer:9a, pos:2a0image data
+block_size:db
+min_code_size:6a blcok:
+ffffffd9
+loop pointer:38, pos:2a4image data
+block_size:3a
+min_code_size:71 blcok:
+e
+loop pointer:6c, pos:2a8image data
+block_size:86
+min_code_size:df blcok:
+loop pointer:81, pos:2acimage data
+block_size:d9
+min_code_size:2c blcok:
+ffffffe6
+loop pointer:85, pos:2b0image data
+block_size:bf
+min_code_size:9 blcok:
+64
+loop pointer: b, pos:2b4image data
+block_size:6d
+min_code_size:93 blcok:
+60
+loop pointer:12, pos:2b8image data
+block_size:d1
+min_code_size:d3 blcok:
+43
+loop pointer:90, pos:2bcimage data
+block_size:5d
+min_code_size:7d blcok:
+4e
+loop pointer:77, pos:2c0image data
+block_size:d9
+min_code_size:db blcok:
+1f
+loop pointer:44, pos:2c4image data
+block_size:9e
+min_code_size:c8 blcok:
+fffffffd
+loop pointer:bb, pos:2c8image data
+block_size:f2
+min_code_size:5f blcok:
+41
+loop pointer:39, pos:2ccimage data
+block_size:7f
+min_code_size:3b blcok:
+1e
+loop pointer:58, pos:2d0image data
+block_size:d3
+min_code_size:f5 blcok:
+fffffff6
+loop pointer:6d, pos:2d4image data
+block_size:95
+min_code_size:48 blcok:
+41
+loop pointer:77, pos:2d8image data
+block_size:3c
+min_code_size:10 blcok:
+ffffffd0
+loop pointer:9d, pos:2dcimage data
+block_size: e
+min_code_size:3 blcok:
+ffffffac
+loop pointer:37, pos:2e0image data
+block_size:71
+min_code_size:9f blcok:
+ffffff84
+loop pointer:f5, pos:2e4image data
+block_size:82
+min_code_size:45 blcok:
+4b
+loop pointer:41, pos:2e8image data
+block_size: 6
+min_code_size:51 blcok:
+ffffffc1
+loop pointer:64, pos:2ecimage data
+block_size:31
+min_code_size:ba blcok:
+7
+loop pointer:60, pos:2f0image data
+block_size:b1
+min_code_size:1c blcok:
+19
+loop pointer:68, pos:2f4image data
+block_size:76
+min_code_size:a0 blcok:
+e
+loop pointer:6c, pos:2f8image data
+block_size:ff
+min_code_size:48 blcok:
+19
+loop pointer:61, pos:2fcimage data
+block_size:a9
+min_code_size:d0 blcok:
+ffffffc6
+loop pointer:dd, pos:300image data
+block_size:19
+min_code_size:7a blcok:
+24
+loop pointer:88, pos:304image data
+block_size: 6
+min_code_size:41 blcok:
+18
+loop pointer:28, pos:308image data
+block_size:21
+min_code_size:77 blcok:
+1c
+loop pointer: 7, pos:30cimage data
+block_size:67
+min_code_size:70 blcok:
+ffffffe0
+loop pointer:38, pos:310image data
+block_size:25
+min_code_size:de blcok:
+ffffffb8
+loop pointer:e0, pos:314image data
+block_size:ab
+min_code_size:61 blcok:
+ffffff85
+loop pointer:88, pos:318image data
+block_size: 3
+min_code_size:9b blcok:
+ffffffb8
+loop pointer:75, pos:31cimage data
+block_size:e3
+min_code_size:7 blcok:
+ffffff84
+loop pointer:16, pos:320image data
+block_size:e8
+min_code_size:ae blcok:
+ffffffc6
+loop pointer: 1, pos:324image data
+block_size:ca
+min_code_size:1b blcok:
+ffffffb7
+loop pointer:da, pos:328image data
+block_size:cb
+min_code_size:8d blcok:
+ffffffdd
+loop pointer:36, pos:32cimage data
+block_size:61
+min_code_size:19 blcok:
+3c
+loop pointer:42, pos:330image data
+block_size: 1
+min_code_size:60 blcok:
+ffffff82
+loop pointer:3c, pos:334image data
+block_size:38
+min_code_size:e blcok:
+1f
+loop pointer: 4, pos:338image data
+block_size:fe
+min_code_size:3e blcok:
+58
+loop pointer:20, pos:33cimage data
+block_size:89
+min_code_size:8f blcok:
+65
+loop pointer:77, pos:340image data
+block_size:7b
+min_code_size:e0 blcok:
+ffffffc9
+loop pointer:4d, pos:344image data
+block_size:e0
+min_code_size:58 blcok:
+ffffff80
+loop pointer: 8, pos:348image data
+block_size: 9
+min_code_size:3e blcok:
+61
+loop pointer: 7, pos:34cimage data
+block_size:c6
+min_code_size:6 blcok:
+16
+loop pointer:a5, pos:350image data
+block_size: 8
+min_code_size:1b blcok:
+26
+loop pointer: 8, pos:354image data
+block_size:80
+min_code_size:8a blcok:
+65
+loop pointer:ca, pos:358image data
+block_size:65
+min_code_size:68 blcok:
+ffffff8e
+loop pointer:2f, pos:35cimage data
+block_size:a6
+min_code_size:e2 blcok:
+ffffffdc
+loop pointer:5c, pos:360image data
+block_size:84
+min_code_size:e3 blcok:
+36
+loop pointer:26, pos:364image data
+block_size:8e
+min_code_size:1b blcok:
+1d
+loop pointer:60, pos:368image data
+block_size:99
+min_code_size:9c blcok:
+76
+loop pointer:4e, pos:36cimage data
+block_size:61
+min_code_size:d9 blcok:
+ffffff92
+loop pointer:ce, pos:370image data
+block_size:d5
+min_code_size:6d blcok:
+ffffffc1
+loop pointer: 8, pos:374image data
+block_size:1d
+min_code_size:22 blcok:
+3
+loop pointer:93, pos:378image data
+block_size:73
+min_code_size:63 blcok:
+ffffff92
+loop pointer:79, pos:37cimage data
+block_size:6c
+min_code_size:60 blcok:
+ffffffb1
+loop pointer:ad, pos:380image data
+block_size:4a
+min_code_size:7 blcok:
+ffffff81
+loop pointer:c6, pos:384image data
+block_size:a6
+min_code_size:e1 blcok:
+18
+loop pointer:49, pos:388image data
+block_size:44
+min_code_size:be blcok:
+ffffffe4
+loop pointer:8b, pos:38cimage data
+block_size:85
+min_code_size:5b blcok:
+ffffffae
+loop pointer:a1, pos:390image data
+block_size:6c
+min_code_size:57 blcok:
+fffffff3
+loop pointer:81, pos:394image data
+block_size:e2
+min_code_size:d2 blcok:
+3
+loop pointer:f4, pos:398image data
+block_size:a8
+min_code_size:99 blcok:
+1b
+loop pointer:4c, pos:39cimage data
+block_size:88
+min_code_size:1f blcok:
+ffffffa4
+loop pointer:d3, pos:3a0image data
+block_size:c5
+min_code_size:45 blcok:
+ffffffd4
+loop pointer:62, pos:3a4image data
+block_size:a5
+min_code_size:56 blcok:
+6c
+loop pointer:18, pos:3a8image data
+block_size:1c
+min_code_size:60 blcok:
+77
+loop pointer:a0, pos:3acimage data
+block_size:98
+min_code_size:20 blcok:
+40
+loop pointer:ab, pos:3b0image data
+block_size:bc
+min_code_size:11 blcok:
+ffffff98
+loop pointer:1e, pos:3b4image data
+block_size:fd
+min_code_size:3e blcok:
+20
+loop pointer:64, pos:3b8image data
+block_size:2f
+min_code_size:4e blcok:
+27
+loop pointer:84, pos:3bcimage data
+block_size:2a
+min_code_size:8a blcok:
+1b
+loop pointer:32, pos:3c0image data
+block_size:e7
+min_code_size:26 blcok:
+ffffffc0
+loop pointer:ab, pos:3c4image data
+block_size:d6
+min_code_size:4c blcok:
+57
+loop pointer:da, pos:3c8image data
+block_size:90
+min_code_size:55 blcok:
+fffffffe
+loop pointer:a2, pos:3ccimage data
+block_size:4c
+min_code_size:90 blcok:
+30
+loop pointer:fd, pos:3d0image data
+block_size:dc
+min_code_size:32 blcok:
+ffffffae
+loop pointer:66, pos:3d4image data
+block_size:96
+min_code_size:c4 blcok:
+ffffffa0
+loop pointer:9b, pos:3d8image data
+block_size:b6
+min_code_size:9a blcok:
+ffffffaa
+loop pointer:e3, pos:3dcimage data
+block_size:30
+min_code_size:6e blcok:
+ffffffe9
+loop pointer:c4, pos:3e0image data
+block_size: 9
+min_code_size:50 blcok:
+ffffffaa
+loop pointer:61, pos:3e4image data
+block_size:81
+min_code_size:60 blcok:
+4b
+loop pointer:1e, pos:3e8image data
+block_size:ab
+min_code_size:31 blcok:
+ffffff86
+loop pointer: 1, pos:3ecimage data
+block_size:ca
+min_code_size:76 blcok:
+ffffffa8
+loop pointer:68, pos:3f0image data
+block_size:38
+min_code_size:a2 blcok:
+56
+loop pointer:98, pos:3f4image data
+block_size:5c
+min_code_size:d6 blcok:
+1e
+loop pointer:a1, pos:3f8image data
+block_size:ff
+min_code_size:76 blcok:
+ffffffd0
+loop pointer: 9, pos:3fcimage data
+block_size:7a
+min_code_size:cb blcok:
+4b
+loop pointer:c6, pos:400image data
+block_size:88
+min_code_size:3 blcok:
+6a
+loop pointer:ea, pos:404image data
+block_size:a2
+min_code_size:98 blcok:
+ffffffdf
+loop pointer:a5, pos:408image data
+block_size:9d
+min_code_size:36 blcok:
+50
+loop pointer:e3, pos:40cimage data
+block_size:a5
+min_code_size:55 blcok:
+1
+loop pointer:7a, pos:410image data
+block_size:34
+min_code_size:1d blcok:
+ffffffe0
+loop pointer:2e, pos:414image data
+block_size:eb
+min_code_size:1a blcok:
+39
+loop pointer:eb, pos:418image data
+block_size:a2
+min_code_size:ec blcok:
+64
+loop pointer:3d, pos:41cimage data
+block_size:58
+min_code_size:30 blcok:
+74
+loop pointer:ad, pos:420image data
+block_size:d7
+min_code_size:95 blcok:
+1
+loop pointer:5a, pos:424image data
+block_size:90
+min_code_size:a6 blcok:
+ffffffd7
+loop pointer:ee, pos:428image data
+block_size:61
+min_code_size:bf blcok:
+ffffffb4
+loop pointer:7a, pos:42cimage data
+block_size:b8
+min_code_size:0 blcok:
+ffffffe0
+loop pointer:c6, pos:430image data
+block_size:de
+min_code_size:bb blcok:
+ffffffb4
+loop pointer:bb, pos:434image data
+block_size:c6
+min_code_size:71 blcok:
+59
+loop pointer: 8, pos:438image data
+block_size:c1
+min_code_size:be blcok:
+ffffffe5
+loop pointer:96, pos:43cimage data
+block_size:10
+min_code_size:bf blcok:
+37
+loop pointer:5b, pos:440image data
+block_size: 3
+min_code_size:67 blcok:
+ffffff8e
+loop pointer:55, pos:444image data
+block_size:ea
+min_code_size:dc blcok:
+ffffff9a
+loop pointer:e6, pos:448image data
+block_size:d5
+min_code_size:fe blcok:
+ffffff96
+loop pointer:4b, pos:44cimage data
+block_size:95
+min_code_size:6a blcok:
+16
+loop pointer:f2, pos:450image data
+block_size: 6
+min_code_size:19 blcok:
+48
+loop pointer:55, pos:454image data
+block_size: 1
+min_code_size:b1 blcok:
+12
+loop pointer: 7, pos:458image data
+block_size:65
+min_code_size:6b blcok:
+ffffff8a
+loop pointer:fb, pos:45cimage data
+block_size:76
+min_code_size:e9 blcok:
+5b
+loop pointer:82, pos:460image data
+block_size:a3
+min_code_size:2f blcok:
+ffffffe1
+loop pointer:18, pos:464image data
+block_size:34
+min_code_size:3 blcok:
+4f
+loop pointer:5c, pos:468image data
+block_size:63
+min_code_size:a7 blcok:
+66
+loop pointer:26, pos:46cimage data
+block_size:41
+min_code_size:8 blcok:
+ffffff8a
+loop pointer:48, pos:470image data
+block_size:c7
+min_code_size:ef blcok:
+ffffff81
+loop pointer:a6, pos:474image data
+block_size:a3
+min_code_size:3d blcok:
+51
+loop pointer:71, pos:478image data
+block_size:41
+min_code_size:bc blcok:
+4b
+loop pointer:5b, pos:47cimage data
+block_size: 4
+min_code_size:66 blcok:
+38
+loop pointer:57, pos:480image data
+block_size:1a
+min_code_size:a8 blcok:
+7b
+loop pointer:4d, pos:484image data
+block_size:a1
+min_code_size:8f blcok:
+ffffff97
+loop pointer:10, pos:488image data
+block_size:91
+min_code_size:8e blcok:
+1c
+loop pointer:74, pos:48cimage data
+block_size:ce
+min_code_size:c9 blcok:
+2a
+loop pointer:78, pos:490image data
+block_size:8e
+min_code_size:34 blcok:
+47
+loop pointer:57, pos:494image data
+block_size:1a
+min_code_size:58 blcok:
+ffffffd6
+loop pointer:59, pos:498image data
+block_size:c1
+min_code_size:6f blcok:
+49
+loop pointer:4d, pos:49cimage data
+block_size:1c
+min_code_size:a9 blcok:
+1b
+loop pointer:e7, pos:4a0image data
+block_size:69
+min_code_size:d7 blcok:
+ffffff9a
+loop pointer:79, pos:4a4image data
+block_size:95
+min_code_size:b1 blcok:
+56
+loop pointer:12, pos:4a8image data
+block_size:c1
+min_code_size:88 blcok:
+ffffffc3
+loop pointer:69, pos:4acimage data
+block_size:31
+min_code_size:5f blcok:
+4d
+loop pointer:a4, pos:4b0image data
+block_size:3a
+min_code_size:b6 blcok:
+ffffffd4
+loop pointer:41, pos:4b4image data
+block_size:b1
+min_code_size:4 blcok:
+45
+loop pointer:4d, pos:4b8image data
+block_size:b0
+min_code_size:6e blcok:
+ffffffeb
+loop pointer:21, pos:4bcloop pointer:f6, pos:4beimage data
+block_size:79
+min_code_size:80 blcok:
+6f
+loop pointer:11, pos:4c2image data
+block_size:3e
+min_code_size:a blcok:
+3a
+loop pointer:b5, pos:4c6image data
+block_size:d8
+min_code_size:c0 blcok:
+42
+loop pointer: f, pos:4caimage data
+block_size:28
+min_code_size:de blcok:
+ffffffb4
+loop pointer:c5, pos:4ceimage data
+block_size:26
+min_code_size:b blcok:
+ffffffa8
+loop pointer:a1, pos:4d2image data
+block_size:72
+min_code_size:a2 blcok:
+26
+loop pointer:8e, pos:4d6image data
+block_size:5a
+min_code_size:85 blcok:
+ffffff8c
+loop pointer:d9, pos:4daimage data
+block_size:cf
+min_code_size:aa blcok:
+9
+loop pointer: d, pos:4deimage data
+block_size:64
+min_code_size:39 blcok:
+ffffffde
+loop pointer:2b, pos:4e2image data
+block_size: f
+min_code_size:24 blcok:
+2c
+loop pointer:b7, pos:4e6image data
+block_size:13
+min_code_size:89 blcok:
+fffffffe
+loop pointer:3d, pos:4eaimage data
+block_size:e6
+min_code_size:9f blcok:
+58
+loop pointer:10, pos:4eeimage data
+block_size:d3
+min_code_size:80 blcok:
+29
+loop pointer:26, pos:4f2image data
+block_size:70
+min_code_size:b8 blcok:
+ffffffd7
+loop pointer:47, pos:4f6image data
+block_size:e3
+min_code_size:a0 blcok:
+25
+loop pointer:ff, pos:4faimage data
+block_size:a2
+min_code_size:39 blcok:
+2d
+loop pointer:ca, pos:4feimage data
+block_size:69
+min_code_size:c8 blcok:
+ffffffab
+loop pointer:6c, pos:502image data
+block_size:34
+min_code_size:95 blcok:
+4e
+loop pointer: 1, pos:506image data
+block_size:53
+min_code_size:ac blcok:
+41
+loop pointer:80, pos:50aimage data
+block_size: 9
+min_code_size:42 blcok:
+ffffff95
+loop pointer:e0, pos:50eimage data
+block_size:52
+min_code_size:2 blcok:
+ffffffb2
+loop pointer:43, pos:512image data
+block_size:82
+min_code_size:44 blcok:
+b
+loop pointer:e3, pos:516image data
+block_size:87
+min_code_size:cd blcok:
+28
+loop pointer:cd, pos:51aimage data
+block_size:91
+min_code_size:f4 blcok:
+55
+loop pointer:a7, pos:51eimage data
+block_size:d5
+min_code_size:3 blcok:
+ffffffd6
+loop pointer:82, pos:522image data
+block_size: 1
+min_code_size:9c blcok:
+ffffffc0
+loop pointer: 7, pos:526image data
+block_size:85
+min_code_size:f blcok:
+ffffff9d
+loop pointer:47, pos:52aimage data
+block_size:a0
+min_code_size:99 blcok:
+ffffffd3
+loop pointer:ec, pos:52eimage data
+block_size:99
+min_code_size:43 blcok:
+fffffff3
+loop pointer:12, pos:532image data
+block_size:43
+min_code_size:b4 blcok:
+ffffffa7
+loop pointer:49, pos:536image data
+block_size:69
+min_code_size:74 blcok:
+2f
+loop pointer:95, pos:53aimage data
+block_size:96
+min_code_size:d4 blcok:
+fffffff6
+loop pointer:db, pos:53eimage data
+block_size:4b
+min_code_size:27 blcok:
+fffffffb
+loop pointer: a, pos:542image data
+block_size:63
+min_code_size:a0 blcok:
+5
+loop pointer:54, pos:546image data
+block_size:7e
+min_code_size:4d blcok:
+33
+loop pointer:47, pos:54aimage data
+block_size:c4
+min_code_size:96 blcok:
+23
+loop pointer:4f, pos:54eimage data
+block_size:63
+min_code_size:8c blcok:
+4c
+loop pointer:21, pos:552loop pointer:cb, pos:554image data
+block_size:13
+min_code_size:7e blcok:
+19
+loop pointer: 8, pos:558image data
+block_size:4c
+min_code_size:c9 blcok:
+ffffff94
+loop pointer:27, pos:55cimage data
+block_size:13
+min_code_size:97 blcok:
+ffffff99
+loop pointer:62, pos:560image data
+block_size:f5
+min_code_size:24 blcok:
+23
+loop pointer:4c, pos:564image data
+block_size:c0
+min_code_size:99 blcok:
+ffffffe5
+loop pointer: 0, pos:568image data
+block_size:39
+min_code_size:8a blcok:
+66
+loop pointer:7e, pos:56cimage data
+block_size:31
+min_code_size:f blcok:
+ffffff87
+loop pointer: 6, pos:570image data
+block_size:c7
+min_code_size:fe blcok:
+ffffff84
+loop pointer:ab, pos:574image data
+block_size:25
+min_code_size:18 blcok:
+38
+loop pointer:e3, pos:578image data
+block_size:80
+min_code_size:30 blcok:
+ffffffc1
+loop pointer:e8, pos:57cimage data
+block_size:11
+min_code_size:d7 blcok:
+37
+loop pointer:1d, pos:580image data
+block_size:74
+min_code_size:ca blcok:
+ffffffa9
+loop pointer:33, pos:584image data
+block_size:f8
+min_code_size:45 blcok:
+4c
+loop pointer:f0, pos:588image data
+block_size: a
+min_code_size:1f blcok:
+12
+loop pointer:81, pos:58cimage data
+block_size:ad
+min_code_size:0 blcok:
+79
+loop pointer:5d, pos:590image data
+block_size:d2
+min_code_size:3d blcok:
+12
+loop pointer:81, pos:594image data
+block_size:f8
+min_code_size:79 blcok:
+6
+loop pointer:24, pos:598image data
+block_size:a9
+min_code_size:a blcok:
+7
+loop pointer:85, pos:59cimage data
+block_size:10
+min_code_size:1a blcok:
+ffffffad
+loop pointer: 9, pos:5a0image data
+block_size:25
+min_code_size:b1 blcok:
+3a
+loop pointer:c0, pos:5a4image data
+block_size:45
+min_code_size:f9 blcok:
+58
+loop pointer:4c, pos:5a8image data
+block_size:84
+min_code_size:88 blcok:
+ffffff8e
+loop pointer:1d, pos:5acimage data
+block_size:23
+min_code_size:e5 blcok:
+ffffffc8
+loop pointer:c9, pos:5b0image data
+block_size: 1
+min_code_size:80 blcok:
+ffffffc6
+loop pointer:41, pos:5b4image data
+block_size:87
+min_code_size:94 blcok:
+70
+loop pointer:84, pos:5b8image data
+block_size:b6
+min_code_size:2d blcok:
+ffffffc9
+loop pointer:5d, pos:5bcimage data
+block_size:c2
+min_code_size:ab blcok:
+fffffff3
+loop pointer:12, pos:5c0image data
+block_size:2c
+min_code_size:9a blcok:
+ffffffcf
+loop pointer:21, pos:5c4loop pointer:3c, pos:5c6image data
+block_size:41
+min_code_size:82 blcok:
+ffffff80
+loop pointer: 3, pos:5caimage data
+block_size:19
+min_code_size:11 blcok:
+4e
+loop pointer:ed, pos:5ceimage data
+block_size:42
+min_code_size:5c blcok:
+79
+loop pointer:1c, pos:5d2image data
+block_size:60
+min_code_size:bf blcok:
+ffffffb4
+loop pointer:a6, pos:5d6image data
+block_size:50
+min_code_size:b6 blcok:
+31
+loop pointer:26, pos:5daimage data
+block_size:d8
+min_code_size:ce blcok:
+1a
+loop pointer:17, pos:5deimage data
+block_size:f6
+min_code_size:64 blcok:
+ffffff8c
+loop pointer:15, pos:5e2image data
+block_size:20
+min_code_size:1d blcok:
+2e
+loop pointer:31, pos:5e6image data
+block_size: 1
+min_code_size:24 blcok:
+47
+loop pointer: 2, pos:5eaimage data
+block_size:24
+min_code_size:d6 blcok:
+fffffff2
+loop pointer:bc, pos:5eeimage data
+block_size:2f
+min_code_size:e blcok:
+18
+loop pointer:e4, pos:5f2image data
+block_size:88
+min_code_size:11 blcok:
+ffffffe8
+loop pointer:82, pos:5f6image data
+block_size:c6
+min_code_size:15 blcok:
+ffffff89
+loop pointer:ff, pos:5faimage data
+block_size: b
+min_code_size:71 blcok:
+ffffffe4
+loop pointer:28, pos:5feimage data
+block_size:8f
+min_code_size:81 blcok:
+ffffffa8
+loop pointer:97, pos:602image data
+block_size:e2
+min_code_size:95 blcok:
+ffffffd1
+loop pointer:e4, pos:606image data
+block_size:5d
+min_code_size:15 blcok:
+ffffffa2
+loop pointer: c, pos:60aimage data
+block_size:10
+min_code_size:5c blcok:
+78
+loop pointer:ad, pos:60eimage data
+block_size:5e
+min_code_size:15 blcok:
+ffffffc5
+loop pointer:8b, pos:612image data
+block_size:a3
+min_code_size:b3 blcok:
+5f
+loop pointer:2a, pos:616image data
+block_size:a3
+min_code_size:ac blcok:
+5
+loop pointer: 2, pos:61aimage data
+block_size:83
+min_code_size:10 blcok:
+21
+loop pointer:2d, pos:61eimage data
+block_size: 0
+min_code_size:4 blcok:
+loop pointer:f6, pos:621image data
+block_size:e3
+min_code_size:da blcok:
+ffffff80
+loop pointer:59, pos:625image data
+block_size:90
+min_code_size:c5 blcok:
+31
+loop pointer:ce, pos:629image data
+block_size:10
+min_code_size:9b blcok:
+ffffff83
+loop pointer:9e, pos:62dimage data
+block_size:c3
+min_code_size:f3 blcok:
+ffffff91
+loop pointer:68, pos:631image data
+block_size:72
+min_code_size:11 blcok:
+8
+loop pointer:69, pos:635image data
+block_size:5d
+min_code_size:8 blcok:
+54
+loop pointer:e1, pos:639image data
+block_size:2d
+min_code_size:82 blcok:
+70
+loop pointer:e0, pos:63dimage data
+block_size: 5
+min_code_size:1f blcok:
+12
+loop pointer: 2, pos:641image data
+block_size:4e
+min_code_size:39 blcok:
+50
+loop pointer:46, pos:645image data
+block_size:cc
+min_code_size:c8 blcok:
+3
+loop pointer:87, pos:649image data
+block_size:29
+min_code_size:30 blcok:
+5e
+loop pointer:fd, pos:64dimage data
+block_size:d4
+min_code_size:32 blcok:
+ffffffa4
+loop pointer:e3, pos:651image data
+block_size:c7
+min_code_size:0 blcok:
+2b
+loop pointer:10, pos:655image data
+block_size:d4
+min_code_size:89 blcok:
+ffffffe7
+loop pointer:64, pos:659image data
+block_size: f
+min_code_size:d7 blcok:
+ffffff86
+loop pointer:24, pos:65dimage data
+block_size:17
+min_code_size:cb blcok:
+18
+loop pointer:b1, pos:661image data
+block_size:4b
+min_code_size:42 blcok:
+ffffffee
+loop pointer:51, pos:665image data
+block_size:b6
+min_code_size:bd blcok:
+ffffffb5
+loop pointer:52, pos:669image data
+block_size:40
+min_code_size:34 blcok:
+49
+loop pointer:4f, pos:66dimage data
+block_size:1e
+min_code_size:57 blcok:
+ffffff92
+loop pointer:49, pos:671image data
+block_size:70
+min_code_size:ed blcok:
+ffffffd2
+loop pointer:23, pos:675image data
+block_size:74
+min_code_size:7e blcok:
+48
+loop pointer:2a, pos:679image data
+block_size:f1
+min_code_size:f4 blcok:
+ffffffb9
+loop pointer:cf, pos:67dimage data
+block_size:42
+min_code_size:b5 blcok:
+ffffff8d
+loop pointer:81, pos:681image data
+block_size:c5
+min_code_size:42 blcok:
+e
+loop pointer:ab, pos:685image data
+block_size:17
+min_code_size:a0 blcok:
+7b
+loop pointer:10, pos:689image data
+block_size:89
+min_code_size:f3 blcok:
+8
+loop pointer:29, pos:68dimage data
+block_size:54
+min_code_size:21 blcok:
+c
+loop pointer:70, pos:691image data
+block_size:3a
+min_code_size:2e blcok:
+ffffffe2
+loop pointer:a5, pos:695image data
+block_size:77
+min_code_size:3 blcok:
+6b
+loop pointer:51, pos:699image data
+block_size: 2
+min_code_size:6d blcok:
+53
+loop pointer:ad, pos:69dimage data
+block_size:38
+min_code_size:53 blcok:
+ffffffce
+loop pointer:2b, pos:6a1image data
+block_size:8a
+min_code_size:b5 blcok:
+27
+loop pointer:e8, pos:6a5image data
+block_size:57
+min_code_size:98 blcok:
+ffffff94
+loop pointer:72, pos:6a9image data
+block_size:cd
+min_code_size:e0 blcok:
+9
+loop pointer:84, pos:6adimage data
+block_size:45
+min_code_size:69 blcok:
+57
+loop pointer:1c, pos:6b1image data
+block_size:a2
+min_code_size:52 blcok:
+7b
+loop pointer:fa, pos:6b5image data
+block_size:3c
+min_code_size:24 blcok:
+70
+loop pointer:61, pos:6b9image data
+block_size:51
+min_code_size:4c blcok:
+32
+loop pointer:b5, pos:6bdimage data
+block_size:d5
+min_code_size:c9 blcok:
+ffffffe0
+loop pointer:30, pos:6c1image data
+block_size:a8
+min_code_size:97 blcok:
+18
+loop pointer:95, pos:6c5image data
+block_size:8c
+min_code_size:49 blcok:
+17
+loop pointer:bb, pos:6c9image data
+block_size:70
+min_code_size:7d blcok:
+2b
+loop pointer:22, pos:6cdimage data
+block_size:8c
+min_code_size:db blcok:
+2
+loop pointer: 1, pos:6d1image data
+block_size:80
+min_code_size:34 blcok:
+ffffff92
+loop pointer:86, pos:6d5image data
+block_size:84
+min_code_size:3a blcok:
+loop pointer: 5, pos:6d9image data
+block_size: 0
+min_code_size:68 blcok:
+loop pointer:4c, pos:6dcimage data
+block_size:e1
+min_code_size:5e blcok:
+ffffffca
+loop pointer:b7, pos:6e0image data
+block_size:66
+min_code_size:78 blcok:
+28
+loop pointer: 4, pos:6e4image data
+block_size:87
+min_code_size:1d blcok:
+59
+loop pointer:2c, pos:6e8image descriptor
+img_left:5171
+img_top:33131
+img_wdt:10606
+img_hgt:32935
+loop pointer:ec, pos:6f2image data
+block_size:b0
+min_code_size:4c blcok:
+ffffff94
+loop pointer:12, pos:6f6image data
+block_size:2e
+min_code_size:7c blcok:
+ffffff82
+loop pointer:ff, pos:6faimage data
+block_size:f4
+min_code_size:fa blcok:
+27
+loop pointer:12, pos:6feimage data
+block_size:c1
+min_code_size:86 blcok:
+37
+loop pointer:1d, pos:702image data
+block_size:4e
+min_code_size:d2 blcok:
+ffffff9b
+loop pointer:69, pos:706image data
+block_size:a3
+min_code_size:b9 blcok:
+4f
+loop pointer: 8, pos:70aimage data
+block_size:9c
+min_code_size:70 blcok:
+7d
+loop pointer:55, pos:70eimage data
+block_size:29
+min_code_size:2b blcok:
+6d
+loop pointer:11, pos:712image data
+block_size:85
+min_code_size:57 blcok:
+ffffff9e
+loop pointer:53, pos:716image data
+block_size:a4
+min_code_size:2d blcok:
+40
+loop pointer:a4, pos:71aimage data
+block_size:d7
+min_code_size:76 blcok:
+ffffffc2
+loop pointer:c7, pos:71eimage data
+block_size:47
+min_code_size:3c blcok:
+55
+loop pointer:c4, pos:722image data
+block_size:e6
+min_code_size:79 blcok:
+45
+loop pointer:8c, pos:726image data
+block_size:89
+min_code_size:7a blcok:
+ffffffaa
+loop pointer:27, pos:72aimage data
+block_size:44
+min_code_size:10 blcok:
+ffffff8b
+loop pointer:5d, pos:72eimage data
+block_size:e0
+min_code_size:fc blcok:
+35
+loop pointer:38, pos:732image data
+block_size: 5
+min_code_size:f9 blcok:
+61
+loop pointer: 0, pos:736image data
+block_size:1d
+min_code_size:d7 blcok:
+ffffffd1
+loop pointer:18, pos:73aimage data
+block_size:a3
+min_code_size:c0 blcok:
+ffffff90
+loop pointer:73, pos:73eimage data
+block_size:87
+min_code_size:5b blcok:
+ffffffb2
+loop pointer:83, pos:742image data
+block_size:ad
+min_code_size:9b blcok:
+72
+loop pointer:f2, pos:746image data
+block_size:d6
+min_code_size:97 blcok:
+52
+loop pointer:e3, pos:74aimage data
+block_size:1d
+min_code_size:32 blcok:
+fffffff2
+loop pointer:4e, pos:74eimage data
+block_size:d4
+min_code_size:8e blcok:
+2e
+loop pointer:96, pos:752image data
+block_size:51
+min_code_size:77 blcok:
+16
+loop pointer:7b, pos:756image data
+block_size:20
+min_code_size:c blcok:
+ffffff81
+loop pointer:f3, pos:75aimage data
+block_size:a2
+min_code_size:fc blcok:
+1d
+loop pointer:bb, pos:75eimage data
+block_size:c7
+min_code_size:b8 blcok:
+4d
+loop pointer:7e, pos:762image data
+block_size:4d
+min_code_size:a3 blcok:
+ffffffd0
+loop pointer:fd, pos:766image data
+block_size: 4
+min_code_size:e3 blcok:
+3a
+loop pointer:5d, pos:76aimage data
+block_size: a
+min_code_size:9 blcok:
+ffffffd5
+loop pointer:42, pos:76eimage data
+block_size:b4
+min_code_size:bc blcok:
+ffffffa6
+loop pointer:45, pos:772image data
+block_size:a5
+min_code_size:4d blcok:
+ffffffe9
+loop pointer: b, pos:776image data
+block_size:b6
+min_code_size:73 blcok:
+ffffffe2
+loop pointer:15, pos:77aimage data
+block_size:7c
+min_code_size:16 blcok:
+ffffffcf
+loop pointer:8f, pos:77eimage data
+block_size:82
+min_code_size:81 blcok:
+1d
+loop pointer:4a, pos:782image data
+block_size:1a
+min_code_size:8b blcok:
+57
+loop pointer:9a, pos:786image data
+block_size:a1
+min_code_size:9 blcok:
+loop pointer:c6, pos:78aimage data
+block_size:57
+min_code_size:d9 blcok:
+ffffffa9
+loop pointer:aa, pos:78eimage data
+block_size:82
+min_code_size:71 blcok:
+5b
+loop pointer:c0, pos:792image data
+block_size:58
+min_code_size:f1 blcok:
+39
+loop pointer:bc, pos:796image data
+block_size:2a
+min_code_size:55 blcok:
+2
+loop pointer:9b, pos:79aimage data
+block_size:9e
+min_code_size:11 blcok:
+ffffffaa
+loop pointer:e5, pos:79eimage data
+block_size:58
+min_code_size:75 blcok:
+41
+loop pointer:4e, pos:7a2image data
+block_size:9a
+min_code_size:f4 blcok:
+ffffffa3
+loop pointer:9a, pos:7a6image data
+block_size:bc
+min_code_size:b8 blcok:
+fffffff1
+loop pointer:b5, pos:7aaimage data
+block_size: 3
+min_code_size:f1 blcok:
+ffffffdd
+loop pointer:e3, pos:7aeimage data
+block_size:ab
+min_code_size:4e blcok:
+ffffff90
+loop pointer:e4, pos:7b2image data
+block_size:91
+min_code_size:81 blcok:
+1b
+loop pointer:e9, pos:7b6image data
+block_size:4a
+min_code_size:68 blcok:
+53
+loop pointer:f6, pos:7baimage data
+block_size:3c
+min_code_size:a1 blcok:
+ffffff9a
+loop pointer:f4, pos:7beimage data
+block_size: 4
+min_code_size:92 blcok:
+ffffffd9
+loop pointer:91, pos:7c2image data
+block_size:34
+min_code_size:29 blcok:
+a
+loop pointer:40, pos:7c6image data
+block_size:68
+min_code_size:1d blcok:
+2
+loop pointer:26, pos:7caimage data
+block_size:96
+min_code_size:4e blcok:
+ffffffd3
+loop pointer:91, pos:7ceimage data
+block_size: 6
+min_code_size:60 blcok:
+53
+loop pointer:15, pos:7d2image data
+block_size:8a
+min_code_size:2c blcok:
+ffffffca
+loop pointer:a8, pos:7d6image data
+block_size:f4
+min_code_size:70 blcok:
+4c
+loop pointer:71, pos:7daimage data
+block_size:82
+min_code_size:17 blcok:
+14
+loop pointer:69, pos:7deimage data
+block_size:b3
+min_code_size:c6 blcok:
+56
+loop pointer:e6, pos:7e2image data
+block_size:6d
+min_code_size:0 blcok:
+70
+loop pointer:6e, pos:7e6image data
+block_size:bd
+min_code_size:fa blcok:
+13
+loop pointer:d8, pos:7eaimage data
+block_size:36
+min_code_size:6d blcok:
+38
+loop pointer: a, pos:7eeimage data
+block_size:49
+min_code_size:4c blcok:
+ffffffd0
+loop pointer:b1, pos:7f2image data
+block_size:d5
+min_code_size:c8 blcok:
+ffffffe8
+loop pointer:66, pos:7f6image data
+block_size: 7
+min_code_size:b9 blcok:
+13
+loop pointer:ff, pos:7faimage data
+block_size:5c
+min_code_size:f blcok:
+54
+loop pointer: 8, pos:7feimage data
+block_size:ac
+min_code_size:91 blcok:
+6c
+loop pointer:f4, pos:802image data
+block_size:b0
+min_code_size:b4 blcok:
+3
+loop pointer:e7, pos:806image data
+block_size:c4
+min_code_size:4e blcok:
+7
+loop pointer:5a, pos:80aimage data
+block_size:70
+min_code_size:ab blcok:
+20
+loop pointer:35, pos:80eimage data
+block_size:39
+min_code_size:7 blcok:
+45
+loop pointer:42, pos:812image data
+block_size:e2
+min_code_size:96 blcok:
+e
+loop pointer:60, pos:816image data
+block_size:c6
+min_code_size:40 blcok:
+4e
+loop pointer:81, pos:81aimage data
+block_size:49
+min_code_size:39 blcok:
+2b
+loop pointer:fe, pos:81eimage data
+block_size:3e
+min_code_size:3a blcok:
+ffffffe6
+loop pointer:18, pos:822image data
+block_size:b5
+min_code_size:86 blcok:
+ffffff96
+loop pointer:51, pos:826image data
+block_size:fd
+min_code_size:b blcok:
+ffffff90
+loop pointer:52, pos:82aimage data
+block_size: 2
+min_code_size:12 blcok:
+ffffffa6
+loop pointer: 5, pos:82eimage data
+block_size:92
+min_code_size:be blcok:
+4a
+loop pointer:ab, pos:832image data
+block_size:83
+min_code_size:76 blcok:
+2
+loop pointer:a2, pos:836image data
+block_size:ae
+min_code_size:fb blcok:
+13
+loop pointer:5d, pos:83aimage data
+block_size:29
+min_code_size:55 blcok:
+11
+loop pointer:78, pos:83eimage data
+block_size:7b
+min_code_size:13 blcok:
+ffffffd3
+loop pointer:5a, pos:842image data
+block_size:63
+min_code_size:25 blcok:
+ffffff91
+loop pointer:11, pos:846image data
+block_size:8e
+min_code_size:3a blcok:
+20
+loop pointer:a9, pos:84aimage data
+block_size:12
+min_code_size:38 blcok:
+5e
+loop pointer:46, pos:84eimage data
+block_size:7b
+min_code_size:f3 blcok:
+69
+loop pointer:21, pos:852loop pointer:57, pos:854image data
+block_size:f7
+min_code_size:8a blcok:
+ffffff9b
+loop pointer:95, pos:858image data
+block_size: 7
+min_code_size:f9 blcok:
+45
+loop pointer:11, pos:85cimage data
+block_size:80
+min_code_size:b0 blcok:
+fffffff3
+loop pointer:e2, pos:860image data
+block_size:b4
+min_code_size:45 blcok:
+ffffff92
+loop pointer: 1, pos:864image data
+block_size:9d
+min_code_size:48 blcok:
+2f
+loop pointer:2c, pos:868image descriptor
+img_left:11591
+img_top:37374
+img_wdt:2830
+img_hgt:9428
+size 128
+loop pointer:87, pos:9f2image data
+block_size:a0
+min_code_size:2c blcok:
+ffffff9e
+loop pointer:d0, pos:9f6image data
+block_size:53
+min_code_size:13 blcok:
+ffffff91
+loop pointer:ff, pos:9faimage data
+block_size:a6
+min_code_size:10 blcok:
+ffffff8b
+loop pointer:7c, pos:9feimage data
+block_size:8b
+min_code_size:70 blcok:
+72
+loop pointer:c0, pos:a02image data
+block_size:34
+min_code_size:89 blcok:
+7d
+loop pointer:31, pos:a06image data
+block_size:95
+min_code_size:2e blcok:
+ffffff9d
+loop pointer:9d, pos:a0aimage data
+block_size:fb
+min_code_size:8c blcok:
+ffffff85
+loop pointer:3e, pos:a0eimage data
+block_size:cb
+min_code_size:84 blcok:
+74
+loop pointer:1d, pos:a12image data
+block_size:7c
+min_code_size:cd blcok:
+60
+loop pointer:8d, pos:a16image data
+block_size:22
+min_code_size:4a blcok:
+ffffff93
+loop pointer: c, pos:a1aimage data
+block_size:72
+min_code_size:66 blcok:
+2a
+loop pointer:d1, pos:a1eimage data
+block_size:a5
+min_code_size:c2 blcok:
+1c
+loop pointer: 1, pos:a22image data
+block_size:d7
+min_code_size:b9 blcok:
+ffffff8b
+loop pointer:30, pos:a26image data
+block_size:a9
+min_code_size:f blcok:
+ffffff97
+loop pointer:8f, pos:a2aimage data
+block_size:1f
+min_code_size:40 blcok:
+ffffffcc
+loop pointer:5d, pos:a2eimage data
+block_size:2c
+min_code_size:81 blcok:
+40
+loop pointer:22, pos:a32image data
+block_size:33
+min_code_size:8e blcok:
+64
+loop pointer:24, pos:a36image data
+block_size:60
+min_code_size:24 blcok:
+3b
+loop pointer:d0, pos:a3aimage data
+block_size: 6
+min_code_size:75 blcok:
+a
+loop pointer:7c, pos:a3eimage data
+block_size:12
+min_code_size:7 blcok:
+4f
+loop pointer:a0, pos:a42image data
+block_size:8f
+min_code_size:98 blcok:
+ffffffca
+loop pointer:4b, pos:a46image data
+block_size: 1
+min_code_size:4 blcok:
+2f
+loop pointer:9e, pos:a4aimage data
+block_size:db
+min_code_size:42 blcok:
+e
+loop pointer:51, pos:a4eimage data
+block_size:c8
+min_code_size:7c blcok:
+35
+loop pointer:59, pos:a52image data
+block_size:93
+min_code_size:eb blcok:
+11
+loop pointer:68, pos:a56image data
+block_size:d0
+min_code_size:c6 blcok:
+ffffff9b
+loop pointer:1a, pos:a5aimage data
+block_size:7f
+min_code_size:87 blcok:
+a
+loop pointer:b9, pos:a5eimage data
+block_size:ec
+min_code_size:b4 blcok:
+3d
+loop pointer: 9, pos:a62image data
+block_size:39
+min_code_size:f2 blcok:
+ffffffd0
+loop pointer:ac, pos:a66image data
+block_size:25
+min_code_size:81 blcok:
+ffffffe5
+loop pointer:7b, pos:a6aimage data
+block_size:8a
+min_code_size:23 blcok:
+3b
+loop pointer:1f, pos:a6eimage data
+block_size:77
+min_code_size:f2 blcok:
+1a
+loop pointer:49, pos:a72image data
+block_size:a5
+min_code_size:0 blcok:
+ffffffd3
+loop pointer:1b, pos:a76image data
+block_size:45
+min_code_size:c1 blcok:
+5d
+loop pointer:8a, pos:a7aimage data
+block_size:ee
+min_code_size:57 blcok:
+41
+loop pointer:c1, pos:a7eimage data
+block_size:67
+min_code_size:40 blcok:
+ffffffa1
+loop pointer:1b, pos:a82image data
+block_size:af
+min_code_size:ac blcok:
+13
+loop pointer:20, pos:a86image data
+block_size:6c
+min_code_size:68 blcok:
+6f
+loop pointer:84, pos:a8aimage data
+block_size:67
+min_code_size:d4 blcok:
+a
+loop pointer:7f, pos:a8eimage data
+block_size:aa
+min_code_size:65 blcok:
+fffffff1
+loop pointer:eb, pos:a92image data
+block_size:3b
+min_code_size:13 blcok:
+64
+loop pointer:3a, pos:a96image data
+block_size:45
+min_code_size:ca blcok:
+ffffffef
+loop pointer:b6, pos:a9aimage data
+block_size:5f
+min_code_size:bf blcok:
+ffffffeb
+loop pointer:75, pos:a9eimage data
+block_size:e3
+min_code_size:5f blcok:
+ffffffd0
+loop pointer:4f, pos:aa2image data
+block_size:bd
+min_code_size:4b blcok:
+71
+loop pointer:b1, pos:aa6image data
+block_size:50
+min_code_size:4a blcok:
+ffffff89
+loop pointer:5f, pos:aaaimage data
+block_size: c
+min_code_size:84 blcok:
+6c
+loop pointer:88, pos:aaeimage data
+block_size:51
+min_code_size:68 blcok:
+4b
+loop pointer:40, pos:ab2image data
+block_size:6a
+min_code_size:e0 blcok:
+4c
+loop pointer:1f, pos:ab6image data
+block_size:ac
+min_code_size:fe blcok:
+ffffffd7
+loop pointer:4f, pos:abaimage data
+block_size:32
+min_code_size:80 blcok:
+ffffff85
+loop pointer:e6, pos:abeimage data
+block_size:c8
+min_code_size:a3 blcok:
+ffffffd3
+loop pointer:83, pos:ac2image data
+block_size:8e
+min_code_size:e3 blcok:
+68
+loop pointer:d1, pos:ac6image data
+block_size:b8
+min_code_size:2a blcok:
+3a
+loop pointer:8f, pos:acaimage data
+block_size:e0
+min_code_size:a4 blcok:
+ffffff86
+loop pointer:79, pos:aceimage data
+block_size:44
+min_code_size:31 blcok:
+ffffffd0
+loop pointer:3f, pos:ad2image data
+block_size:7c
+min_code_size:bd blcok:
+c
+loop pointer:d4, pos:ad6image data
+block_size:fe
+min_code_size:c0 blcok:
+ffffff9b
+loop pointer:ac, pos:adaimage data
+block_size:66
+min_code_size:f7 blcok:
+ffffffc2
+loop pointer:5a, pos:adeimage data
+block_size: 1
+min_code_size:6a blcok:
+22
+loop pointer:7f, pos:ae2image data
+block_size:1b
+min_code_size:e1 blcok:
+ffffff84
+loop pointer:c1, pos:ae6image data
+block_size:6d
+min_code_size:7d blcok:
+46
+loop pointer:1a, pos:aeaimage data
+block_size:37
+min_code_size:c9 blcok:
+34
+loop pointer:e0, pos:aeeimage data
+block_size:3d
+min_code_size:37 blcok:
+66
+loop pointer:d2, pos:af2image data
+block_size:a6
+min_code_size:28 blcok:
+ffffff91
+loop pointer:60, pos:af6image data
+block_size:21
+min_code_size:81 blcok:
+2
+loop pointer:ff, pos:afaimage data
+block_size:81
+min_code_size:fe blcok:
+ffffff80
+loop pointer:53, pos:afeimage data
+block_size:20
+min_code_size:f1 blcok:
+ffffff9d
+loop pointer:e7, pos:b02image data
+block_size: d
+min_code_size:7f blcok:
+14
+loop pointer:38, pos:b06image data
+block_size:62
+min_code_size:4c blcok:
+1c
+loop pointer:55, pos:b0aimage data
+block_size:5a
+min_code_size:c3 blcok:
+ffffff99
+loop pointer:71, pos:b0eimage data
+block_size:e6
+min_code_size:2e blcok:
+55
+loop pointer:7b, pos:b12image data
+block_size:37
+min_code_size:c4 blcok:
+c
+loop pointer:89, pos:b16image data
+block_size:1c
+min_code_size:61 blcok:
+ffffffbd
+loop pointer:37, pos:b1aimage data
+block_size:4f
+min_code_size:3d blcok:
+ffffffb3
+loop pointer:27, pos:b1eimage data
+block_size:72
+min_code_size:42 blcok:
+22
+loop pointer:13, pos:b22image data
+block_size:22
+min_code_size:72 blcok:
+4a
+loop pointer:a3, pos:b26image data
+block_size:1d
+min_code_size:71 blcok:
+ffffffb0
+loop pointer:7e, pos:b2aimage data
+block_size:63
+min_code_size:ff blcok:
+10
+loop pointer:a7, pos:b2eimage data
+block_size:24
+min_code_size:e5 blcok:
+52
+loop pointer:e6, pos:b32image data
+block_size:e4
+min_code_size:7f blcok:
+ffffff97
+loop pointer:27, pos:b36image data
+block_size:a6
+min_code_size:86 blcok:
+33
+loop pointer:19, pos:b3aimage data
+block_size:1e
+min_code_size:17 blcok:
+68
+loop pointer:36, pos:b3eimage data
+block_size: 6
+min_code_size:19 blcok:
+ffffffc0
+loop pointer:7d, pos:b42image data
+block_size:d8
+min_code_size:1d blcok:
+53
+loop pointer:30, pos:b46image data
+block_size:27
+min_code_size:71 blcok:
+3b
+loop pointer:c8, pos:b4aimage data
+block_size:8c
+min_code_size:40 blcok:
+ffffff92
+loop pointer:20, pos:b4eimage data
+block_size:c7
+min_code_size:84 blcok:
+1d
+loop pointer:38, pos:b52image data
+block_size:5a
+min_code_size:d3 blcok:
+4e
+loop pointer:d2, pos:b56image data
+block_size: 8
+min_code_size:1d blcok:
+fffffff1
+loop pointer:66, pos:b5aimage data
+block_size:77
+min_code_size:21 blcok:
+7c
+loop pointer:75, pos:b5eimage data
+block_size:33
+min_code_size:42 blcok:
+ffffffb0
+loop pointer:77, pos:b62image data
+block_size:f9
+min_code_size:27 blcok:
+46
+loop pointer:38, pos:b66image data
+block_size:b2
+min_code_size:1b blcok:
+2d
+loop pointer:87, pos:b6aimage data
+block_size:1b
+min_code_size:53 blcok:
+ffffffa0
+loop pointer: 6, pos:b6eimage data
+block_size:f4
+min_code_size:3b blcok:
+ffffffb6
+loop pointer:77, pos:b72image data
+block_size:72
+min_code_size:f2 blcok:
+3e
+loop pointer:ad, pos:b76image data
+block_size:2c
+min_code_size:17 blcok:
+ffffffa5
+loop pointer:41, pos:b7aimage data
+block_size:f8
+min_code_size:1 blcok:
+ffffff91
+loop pointer:62, pos:b7eimage data
+block_size:65
+min_code_size:65 blcok:
+3f
+loop pointer:30, pos:b82image data
+block_size:14
+min_code_size:22 blcok:
+27
+loop pointer:a0, pos:b86image data
+block_size:c7
+min_code_size:b blcok:
+ffffffe4
+loop pointer:75, pos:b8aimage data
+block_size:20
+min_code_size:4 blcok:
+7e
+loop pointer:43, pos:b8eimage data
+block_size:1d
+min_code_size:e3 blcok:
+6e
+loop pointer:92, pos:b92image data
+block_size:f0
+min_code_size:0 blcok:
+12
+loop pointer:6e, pos:b96image data
+block_size:82
+min_code_size:98 blcok:
+22
+loop pointer:1e, pos:b9aimage data
+block_size:67
+min_code_size:d5 blcok:
+ffffffc6
+loop pointer:b2, pos:b9eimage data
+block_size:d7
+min_code_size:64 blcok:
+15
+loop pointer:51, pos:ba2image data
+block_size:c7
+min_code_size:7b blcok:
+ffffff80
+loop pointer:ae, pos:ba6image data
+block_size:48
+min_code_size:17 blcok:
+58
+loop pointer:d2, pos:baaimage data
+block_size:95
+min_code_size:25 blcok:
+ffffffe3
+loop pointer:1d, pos:baeimage data
+block_size:f2
+min_code_size:59 blcok:
+1d
+loop pointer:cb, pos:bb2image data
+block_size:46
+min_code_size:e1 blcok:
+7f
+loop pointer:43, pos:bb6image data
+block_size:c1
+min_code_size:83 blcok:
+33
+loop pointer: 0, pos:bbaimage data
+block_size:96
+min_code_size:cd blcok:
+3f
+loop pointer:f3, pos:bbeimage data
+block_size: 1
+min_code_size:12 blcok:
+14
+loop pointer:b0, pos:bc2image data
+block_size:25
+min_code_size:2a blcok:
+52
+loop pointer:30, pos:bc6image data
+block_size:12
+min_code_size:7 blcok:
+2b
+loop pointer:de, pos:bcaimage data
+block_size:25
+min_code_size:81 blcok:
+71
+loop pointer:77, pos:bceimage data
+block_size:14
+min_code_size:1c blcok:
+fffffff6
+loop pointer:73, pos:bd2image data
+block_size:67
+min_code_size:40 blcok:
+ffffff88
+loop pointer:5f, pos:bd6image data
+block_size:29
+min_code_size:83 blcok:
+ffffff8d
+loop pointer:32, pos:bdaimage data
+block_size: b
+min_code_size:25 blcok:
+52
+loop pointer:68, pos:bdeimage data
+block_size:f8
+min_code_size:8d blcok:
+79
+loop pointer:30, pos:be2image data
+block_size:1b
+min_code_size:52 blcok:
+ffffffc4
+loop pointer:47, pos:be6image data
+block_size: 2
+min_code_size:0 blcok:
+60
+loop pointer:88, pos:beaimage data
+block_size:97
+min_code_size:8d blcok:
+6f
+loop pointer:99, pos:beeimage data
+block_size:1c
+min_code_size:c6 blcok:
+ffffffc2
+loop pointer:f2, pos:bf2image data
+block_size:ca
+min_code_size:79 blcok:
+ffffffb1
+loop pointer:2a, pos:bf6image data
+block_size:e1
+min_code_size:b9 blcok:
+32
+loop pointer:ff, pos:bfaimage data
+block_size:27
+min_code_size:a7 blcok:
+loop pointer: 1, pos:bfeimage data
+block_size: 0
+min_code_size:0 blcok:
+loop pointer: c, pos:c01image data
+block_size:3e
+min_code_size:68 blcok:
+ffffffbc
+loop pointer:47, pos:c05image data
+block_size:99
+min_code_size:34 blcok:
+ffffffb6
+loop pointer:55, pos:c09image data
+block_size:62
+min_code_size:45 blcok:
+68
+loop pointer:5a, pos:c0dimage data
+block_size:1c
+min_code_size:72 blcok:
+c
+loop pointer: 2, pos:c11image data
+block_size:16
+min_code_size:81 blcok:
+58
+loop pointer:63, pos:c15image data
+block_size:38
+min_code_size:ba blcok:
+37
+loop pointer: f, pos:c19image data
+block_size:69
+min_code_size:98 blcok:
+ffffffca
+loop pointer:c8, pos:c1dimage data
+block_size:ca
+min_code_size:88 blcok:
+61
+loop pointer:3f, pos:c21image data
+block_size:42
+min_code_size:13 blcok:
+1
+loop pointer:b8, pos:c25image data
+block_size:8b
+min_code_size:11 blcok:
+ffffffb3
+loop pointer:38, pos:c29image data
+block_size:13
+min_code_size:34 blcok:
+fffffff2
+loop pointer:22, pos:c2dimage data
+block_size:58
+min_code_size:bb blcok:
+34
+loop pointer: a, pos:c31image data
+block_size:24
+min_code_size:52 blcok:
+4e
+loop pointer:52, pos:c35image data
+block_size:cd
+min_code_size:35 blcok:
+18
+loop pointer:77, pos:c39image data
+block_size:28
+min_code_size:a4 blcok:
+71
+loop pointer:c1, pos:c3dimage data
+block_size:80
+min_code_size:c8 blcok:
+35
+loop pointer:67, pos:c41image data
+block_size:86
+min_code_size:30 blcok:
+ffffffb6
+loop pointer:69, pos:c45image data
+block_size:63
+min_code_size:17 blcok:
+20
+loop pointer:65, pos:c49image data
+block_size:8b
+min_code_size:a3 blcok:
+59
+loop pointer:92, pos:c4dimage data
+block_size:6a
+min_code_size:71 blcok:
+ffffff86
+loop pointer:89, pos:c51image data
+block_size:18
+min_code_size:e9 blcok:
+72
+loop pointer:ef, pos:c55image data
+block_size:1e
+min_code_size:f7 blcok:
+fffffff6
+loop pointer:e8, pos:c59image data
+block_size:6c
+min_code_size:26 blcok:
+42
+loop pointer:2f, pos:c5dimage data
+block_size:63
+min_code_size:f6 blcok:
+1b
+loop pointer:29, pos:c61image data
+block_size:1c
+min_code_size:62 blcok:
+ffffffda
+loop pointer:f8, pos:c65image data
+block_size:a9
+min_code_size:79 blcok:
+23
+loop pointer:89, pos:c69image data
+block_size:e3
+min_code_size:ec blcok:
+ffffff8d
+loop pointer:54, pos:c6dimage data
+block_size:24
+min_code_size:67 blcok:
+ffffffa7
+loop pointer: 1, pos:c71image data
+block_size:a5
+min_code_size:2d blcok:
+ffffffb6
+loop pointer:8c, pos:c75image data
+block_size:a8
+min_code_size:e8 blcok:
+ffffff85
+loop pointer:cc, pos:c79image data
+block_size:32
+min_code_size:5 blcok:
+ffffffc4
+loop pointer: 7, pos:c7dimage data
+block_size:bc
+min_code_size:80 blcok:
+ffffffc8
+loop pointer:8f, pos:c81image data
+block_size:d2
+min_code_size:c3 blcok:
+70
+loop pointer:37, pos:c85image data
+block_size:56
+min_code_size:42 blcok:
+22
+loop pointer:96, pos:c89image data
+block_size:ee
+min_code_size:23 blcok:
+47
+loop pointer:56, pos:c8dimage data
+block_size:35
+min_code_size:a7 blcok:
+ffffff87
+loop pointer:a7, pos:c91image data
+block_size:33
+min_code_size:17 blcok:
+ffffffe4
+loop pointer:12, pos:c95image data
+block_size:3e
+min_code_size:63 blcok:
+18
+loop pointer:64, pos:c99image data
+block_size:e1
+min_code_size:e5 blcok:
+41
+loop pointer:da, pos:c9dimage data
+block_size:30
+min_code_size:11 blcok:
+32
+loop pointer:83, pos:ca1image data
+block_size:ea
+min_code_size:29 blcok:
+ffffff95
+loop pointer:8f, pos:ca5image data
+block_size:17
+min_code_size:6d blcok:
+3d
+loop pointer:78, pos:ca9image data
+block_size:6e
+min_code_size:88 blcok:
+ffffffad
+loop pointer:61, pos:cadimage data
+block_size:56
+min_code_size:3f blcok:
+ffffffe2
+loop pointer:40, pos:cb1image data
+block_size:c7
+min_code_size:d6 blcok:
+1a
+loop pointer:e5, pos:cb5image data
+block_size:80
+min_code_size:81 blcok:
+44
+loop pointer:40, pos:cb9image data
+block_size:29
+min_code_size:1f blcok:
+ffffffd7
+loop pointer:1c, pos:cbdimage data
+block_size:b4
+min_code_size:29 blcok:
+55
+loop pointer: a, pos:cc1image data
+block_size:78
+min_code_size:d2 blcok:
+ffffffe5
+loop pointer:16, pos:cc5image data
+block_size:e8
+min_code_size:68 blcok:
+31
+loop pointer:41, pos:cc9image data
+block_size:29
+min_code_size:3c blcok:
+4
+loop pointer:36, pos:ccdimage data
+block_size:23
+min_code_size:33 blcok:
+34
+loop pointer:e9, pos:cd1image data
+block_size:c7
+min_code_size:1a blcok:
+15
+loop pointer: 1, pos:cd5image data
+block_size:79
+min_code_size:24 blcok:
+6f
+loop pointer:b8, pos:cd9image data
+block_size:20
+min_code_size:86 blcok:
+ffffffe6
+loop pointer:17, pos:cddimage data
+block_size:3c
+min_code_size:71 blcok:
+59
+loop pointer:27, pos:ce1image data
+block_size:a7
+min_code_size:fc blcok:
+70
+loop pointer:44, pos:ce5image data
+block_size:2e
+min_code_size:84 blcok:
+ffffff91
+loop pointer:b3, pos:ce9image data
+block_size:26
+min_code_size:81 blcok:
+ffffffd3
+loop pointer:87, pos:cedimage data
+block_size:f4
+min_code_size:22 blcok:
+10
+loop pointer:49, pos:cf1image data
+block_size:35
+min_code_size:c9 blcok:
+4b
+loop pointer:79, pos:cf5image data
+block_size:e7
+min_code_size:1b blcok:
+fffffff7
+loop pointer:10, pos:cf9image data
+block_size:41
+min_code_size:ff blcok:
+1
+loop pointer:38, pos:cfdimage data
+block_size:60
+min_code_size:b blcok:
+31
+loop pointer:64, pos:d01image data
+block_size:2f
+min_code_size:85 blcok:
+ffffff84
+loop pointer:88, pos:d05image data
+block_size:7c
+min_code_size:80 blcok:
+58
+loop pointer:37, pos:d09image data
+block_size:55
+min_code_size:e7 blcok:
+47
+loop pointer:be, pos:d0dimage data
+block_size:1e
+min_code_size:34 blcok:
+42
+loop pointer:54, pos:d11image data
+block_size:1d
+min_code_size:32 blcok:
+ffffff98
+loop pointer:3a, pos:d15image data
+block_size:f5
+min_code_size:59 blcok:
+ffffff96
+loop pointer:dc, pos:d19image data
+block_size:73
+min_code_size:37 blcok:
+24
+loop pointer:97, pos:d1dimage data
+block_size:69
+min_code_size:72 blcok:
+21
+loop pointer:13, pos:d21image data
+block_size:94
+min_code_size:5a blcok:
+1
+loop pointer:b8, pos:d25image data
+block_size:86
+min_code_size:66 blcok:
+44
+loop pointer:54, pos:d29image data
+block_size: 8
+min_code_size:52 blcok:
+49
+loop pointer:41, pos:d2dimage data
+block_size:c8
+min_code_size:75 blcok:
+ffffff96
+loop pointer: 6, pos:d31image data
+block_size:46
+min_code_size:e6 blcok:
+36
+loop pointer:81, pos:d35image data
+block_size:32
+min_code_size:64 blcok:
+23
+loop pointer:2d, pos:d39image data
+block_size:79
+min_code_size:34 blcok:
+49
+loop pointer:89, pos:d3dimage data
+block_size:96
+min_code_size:37 blcok:
+4a
+loop pointer:19, pos:d41image data
+block_size:aa
+min_code_size:6e blcok:
+ffffff88
+loop pointer:6e, pos:d45image data
+block_size:c5
+min_code_size:ae blcok:
+62
+loop pointer:33, pos:d49image data
+block_size:35
+min_code_size:e8 blcok:
+ffffffc9
+loop pointer: 5, pos:d4dimage data
+block_size:1c
+min_code_size:5f blcok:
+ffffffa1
+loop pointer:10, pos:d51image data
+block_size:a9
+min_code_size:96 blcok:
+ffffff94
+loop pointer:9e, pos:d55image data
+block_size:1f
+min_code_size:67 blcok:
+3
+loop pointer:88, pos:d59image data
+block_size:34
+min_code_size:5a blcok:
+51
+loop pointer:3a, pos:d5dimage data
+block_size:84
+min_code_size:4b blcok:
+76
+loop pointer:69, pos:d61image data
+block_size:83
+min_code_size:34 blcok:
+ffffffa3
+loop pointer:39, pos:d65image data
+block_size:99
+min_code_size:3d blcok:
+ffffff89
+loop pointer:76, pos:d69image data
+block_size:71
+min_code_size:35 blcok:
+13
+loop pointer:32, pos:d6dimage data
+block_size:31
+min_code_size:44 blcok:
+20
+loop pointer:e9, pos:d71image data
+block_size:db
+min_code_size:53 blcok:
+35
+loop pointer:9a, pos:d75image data
+block_size:76
+min_code_size:f2 blcok:
+32
+loop pointer:20, pos:d79image data
+block_size:76
+min_code_size:89 blcok:
+ffffffa8
+loop pointer:45, pos:d7dimage data
+block_size:f0
+min_code_size:2 blcok:
+2
+loop pointer:2b, pos:d81image data
+block_size:f5
+min_code_size:cc blcok:
+1b
+loop pointer:1c, pos:d85image data
+block_size:9b
+min_code_size:a0 blcok:
+5c
+loop pointer:23, pos:d89image data
+block_size:78
+min_code_size:78 blcok:
+ffffffb8
+loop pointer:5e, pos:d8dimage data
+block_size:82
+min_code_size:a1 blcok:
+ffffff96
+loop pointer:77, pos:d91image data
+block_size:85
+min_code_size:83 blcok:
+40
+loop pointer:c9, pos:d95image data
+block_size:11
+min_code_size:19 blcok:
+62
+loop pointer:9c, pos:d99image data
+block_size:24
+min_code_size:92 blcok:
+65
+loop pointer:33, pos:d9dimage data
+block_size:5f
+min_code_size:82 blcok:
+18
+loop pointer:f6, pos:da1image data
+block_size:a8
+min_code_size:a blcok:
+38
+loop pointer:9c, pos:da5image data
+block_size:21
+min_code_size:ae blcok:
+ffffff92
+loop pointer:63, pos:da9image data
+block_size:42
+min_code_size:9 blcok:
+ffffffe6
+loop pointer:e2, pos:dadimage data
+block_size:69
+min_code_size:5a blcok:
+ffffffa1
+loop pointer:84, pos:db1image data
+block_size: 1
+min_code_size:b7 blcok:
+22
+loop pointer:9c, pos:db5image data
+block_size: 2
+min_code_size:41 blcok:
+18
+loop pointer:20, pos:db9image data
+block_size:c2
+min_code_size:9d blcok:
+18
+loop pointer:1b, pos:dbdimage data
+block_size: 2
+min_code_size:c0 blcok:
+ffffff81
+loop pointer: a, pos:dc1image data
+block_size:1b
+min_code_size:f6 blcok:
+ffffffce
+loop pointer:a3, pos:dc5image data
+block_size:41
+min_code_size:73 blcok:
+fffffff6
+loop pointer:12, pos:dc9image data
+block_size:91
+min_code_size:9c blcok:
+ffffff98
+loop pointer:12, pos:dcdimage data
+block_size:38
+min_code_size:27 blcok:
+24
+loop pointer:32, pos:dd1image data
+block_size:c0
+min_code_size:97 blcok:
+ffffffd1
+loop pointer: 1, pos:dd5image data
+block_size:87
+min_code_size:36 blcok:
+31
+loop pointer:e4, pos:dd9image data
+block_size:9d
+min_code_size:1 blcok:
+14
+loop pointer:69, pos:dddimage data
+block_size:e4
+min_code_size:9c blcok:
+57
+loop pointer:1f, pos:de1image data
+block_size:71
+min_code_size:87 blcok:
+7f
+loop pointer:e3, pos:de5image data
+block_size: a
+min_code_size:3 blcok:
+42
+loop pointer:b2, pos:de9image data
+block_size:d2
+min_code_size:58 blcok:
+6
+loop pointer:93, pos:dedimage data
+block_size:57
+min_code_size:dc blcok:
+6e
+loop pointer:bd, pos:df1image data
+block_size:1e
+min_code_size:72 blcok:
+7f
+loop pointer:92, pos:df5image data
+block_size:72
+min_code_size:96 blcok:
+63
+loop pointer:35, pos:df9image data
+block_size: f
+min_code_size:ff blcok:
+7a
+loop pointer:80, pos:dfdimage data
+block_size:29
+min_code_size:e8 blcok:
+ffffff8c
+loop pointer:1b, pos:e01image data
+block_size:72
+min_code_size:48 blcok:
+38
+loop pointer:b3, pos:e05image data
+block_size:e5
+min_code_size:19 blcok:
+ffffff81
+loop pointer:64, pos:e09image data
+block_size:37
+min_code_size:61 blcok:
+54
+loop pointer:1b, pos:e0dimage data
+block_size:9d
+min_code_size:ca blcok:
+ffffffaf
+loop pointer:49, pos:e11image data
+block_size:ba
+min_code_size:39 blcok:
+51
+loop pointer:9e, pos:e15image data
+block_size:81
+min_code_size:d3 blcok:
+39
+loop pointer:b7, pos:e19image data
+block_size:70
+min_code_size:b8 blcok:
+a
+loop pointer:4a, pos:e1dimage data
+block_size:bd
+min_code_size:84 blcok:
+fffffff7
+loop pointer:93, pos:e21image data
+block_size:56
+min_code_size:29 blcok:
+ffffffa0
+loop pointer:b0, pos:e25image data
+block_size:7b
+min_code_size:2 blcok:
+21
+loop pointer:c4, pos:e29image data
+block_size:f9
+min_code_size:31 blcok:
+67
+loop pointer:99, pos:e2dimage data
+block_size:57
+min_code_size:ba blcok:
+ffffff84
+loop pointer: 5, pos:e31image data
+block_size:97
+min_code_size:78 blcok:
+65
+loop pointer:c2, pos:e35image data
+block_size:3f
+min_code_size:7f blcok:
+ffffffe8
+loop pointer:8b, pos:e39image data
+block_size:6a
+min_code_size:15 blcok:
+ffffffa1
+loop pointer:af, pos:e3dimage data
+block_size:81
+min_code_size:d7 blcok:
+4c
+loop pointer:84, pos:e41image data
+block_size:9d
+min_code_size:1b blcok:
+40
+loop pointer:2e, pos:e45image data
+block_size:97
+min_code_size:2a blcok:
+22
+loop pointer: 7, pos:e49image data
+block_size:a3
+min_code_size:d2 blcok:
+42
+loop pointer:80, pos:e4dimage data
+block_size:ce
+min_code_size:6f blcok:
+ffffffa2
+loop pointer:a3, pos:e51image data
+block_size:a1
+min_code_size:fd blcok:
+16
+loop pointer:74, pos:e55image data
+block_size:69
+min_code_size:83 blcok:
+ffffff97
+loop pointer:33, pos:e59image data
+block_size:48
+min_code_size:e blcok:
+4a
+loop pointer:96, pos:e5dimage data
+block_size:b2
+min_code_size:ce blcok:
+ffffff9e
+loop pointer:ba, pos:e61image data
+block_size:1d
+min_code_size:11 blcok:
+ffffff94
+loop pointer:d7, pos:e65image data
+block_size:85
+min_code_size:7a blcok:
+ffffffe3
+loop pointer:84, pos:e69image data
+block_size:41
+min_code_size:a5 blcok:
+ffffff9f
+loop pointer:a5, pos:e6dimage data
+block_size:8b
+min_code_size:68 blcok:
+4c
+loop pointer:42, pos:e71image data
+block_size:40
+min_code_size:7f blcok:
+62
+loop pointer:1c, pos:e75image data
+block_size:53
+min_code_size:24 blcok:
+30
+loop pointer:9e, pos:e79image data
+block_size:49
+min_code_size:a6 blcok:
+53
+loop pointer:7a, pos:e7dimage data
+block_size: 1
+min_code_size:23 blcok:
+fffffff3
+loop pointer:a3, pos:e81image data
+block_size:68
+min_code_size:ae blcok:
+34
+loop pointer:bc, pos:e85image data
+block_size:38
+min_code_size:59 blcok:
+ffffffba
+loop pointer:81, pos:e89image data
+block_size:83
+min_code_size:a4 blcok:
+ffffffa5
+loop pointer:7a, pos:e8dimage data
+block_size:fa
+min_code_size:6f blcok:
+69
+loop pointer: 4, pos:e91image data
+block_size:7c
+min_code_size:95 blcok:
+11
+loop pointer:8a, pos:e95image data
+block_size:e8
+min_code_size:a6 blcok:
+59
+loop pointer: 0, pos:e99image data
+block_size: 0
+min_code_size:2 blcok:
+loop pointer:14, pos:e9cimage data
+block_size:72
+min_code_size:ab blcok:
+3a
+loop pointer: a, pos:ea0image data
+block_size:72
+min_code_size:82 blcok:
+ffffffcf
+loop pointer:20, pos:ea4image data
+block_size:68
+min_code_size:36 blcok:
+ffffffe8
+loop pointer:69, pos:ea8image data
+block_size:e3
+min_code_size:38 blcok:
+ffffffa5
+loop pointer:3c, pos:eacimage data
+block_size:84
+min_code_size:34 blcok:
+5
+loop pointer:a0, pos:eb0image data
+block_size:4f
+min_code_size:71 blcok:
+2
+loop pointer:a8, pos:eb4image data
+block_size:42
+min_code_size:1a blcok:
+loop pointer:df, pos:eb8image data
+block_size:80
+min_code_size:f6 blcok:
+ffffffe7
+loop pointer:26, pos:ebcimage data
+block_size:e8
+min_code_size:a5 blcok:
+9
+loop pointer: b, pos:ec0image data
+block_size:e1
+min_code_size:6d blcok:
+2b
+loop pointer:4f, pos:ec4image data
+block_size:39
+min_code_size:72 blcok:
+5a
+loop pointer: 2, pos:ec8image data
+block_size:43
+min_code_size:0 blcok:
+ffffffc9
+loop pointer:7f, pos:eccimage data
+block_size:38
+min_code_size:cb blcok:
+76
+loop pointer:3d, pos:ed0image data
+block_size:1a
+min_code_size:4a blcok:
+ffffffa5
+loop pointer:81, pos:ed4image data
+block_size:9a
+min_code_size:33 blcok:
+74
+loop pointer:34, pos:ed8image data
+block_size:57
+min_code_size:55 blcok:
+7b
+loop pointer:99, pos:edcimage data
+block_size:34
+min_code_size:64 blcok:
+31
+loop pointer:b6, pos:ee0image data
+block_size:29
+min_code_size:6b blcok:
+6a
+loop pointer:7b, pos:ee4image data
+block_size:e6
+min_code_size:0 blcok:
+4c
+loop pointer:2f, pos:ee8image data
+block_size:1f
+min_code_size:58 blcok:
+9
+loop pointer:a2, pos:eecimage data
+block_size:27
+min_code_size:17 blcok:
+63
+loop pointer:a6, pos:ef0image data
+block_size:c8
+min_code_size:ef blcok:
+ffffffa3
+loop pointer:d2, pos:ef4image data
+block_size:1f
+min_code_size:59 blcok:
+1f
+loop pointer:c8, pos:ef8image data
+block_size:ff
+min_code_size:1c blcok:
+47
+loop pointer:f3, pos:efcimage data
+block_size:5b
+min_code_size:a blcok:
+ffffffa3
+loop pointer:7b, pos:f00image data
+block_size:23
+min_code_size:65 blcok:
+63
+loop pointer:9b, pos:f04image data
+block_size: 0
+min_code_size:96 blcok:
+loop pointer:e8, pos:f07image data
+block_size:ab
+min_code_size:49 blcok:
+33
+loop pointer:c2, pos:f0bimage data
+block_size:30
+min_code_size:79 blcok:
+58
+loop pointer:1a, pos:f0fimage data
+block_size:30
+min_code_size:4 blcok:
+ffffff84
+loop pointer:e9, pos:f13image data
+block_size:2d
+min_code_size:29 blcok:
+ffffff9f
+loop pointer:a6, pos:f17image data
+block_size:80
+min_code_size:25 blcok:
+14
+loop pointer:aa, pos:f1bimage data
+block_size:e8
+min_code_size:ae blcok:
+ffffff81
+loop pointer:e3, pos:f1fimage data
+block_size:a6
+min_code_size:80 blcok:
+5b
+loop pointer:e3, pos:f23image data
+block_size:f2
+min_code_size:79 blcok:
+ffffff98
+loop pointer:23, pos:f27image data
+block_size:5a
+min_code_size:ad blcok:
+ffffff82
+loop pointer:e5, pos:f2bimage data
+block_size:1f
+min_code_size:67 blcok:
+66
+loop pointer:23, pos:f2fimage data
+block_size:44
+min_code_size:46 blcok:
+fffffff3
+loop pointer:2a, pos:f33image data
+block_size:24
+min_code_size:9a blcok:
+76
+loop pointer:db, pos:f37image data
+block_size:a4
+min_code_size:88 blcok:
+ffffffe4
+loop pointer:92, pos:f3bimage data
+block_size:2e
+min_code_size:69 blcok:
+48
+loop pointer:35, pos:f3fimage data
+block_size:b1
+min_code_size:b2 blcok:
+35
+loop pointer:53, pos:f43image data
+block_size:80
+min_code_size:19 blcok:
+39
+loop pointer:72, pos:f47image data
+block_size:e6
+min_code_size:9e blcok:
+ffffffaa
+loop pointer:88, pos:f4bimage data
+block_size:c2
+min_code_size:cf blcok:
+27
+loop pointer:c3, pos:f4fimage data
+block_size:3b
+min_code_size:81 blcok:
+2f
+loop pointer: 2, pos:f53image data
+block_size:1c
+min_code_size:7b blcok:
+35
+loop pointer:a5, pos:f57image data
+block_size:12
+min_code_size:bf blcok:
+ffffffa6
+loop pointer:75, pos:f5bimage data
+block_size:38
+min_code_size:83 blcok:
+62
+loop pointer:44, pos:f5fimage data
+block_size:53
+min_code_size:71 blcok:
+ffffffe2
+loop pointer:24, pos:f63image data
+block_size:4a
+min_code_size:53 blcok:
+ffffff96
+loop pointer:8a, pos:f67image data
+block_size:76
+min_code_size:36 blcok:
+ffffff84
+loop pointer:59, pos:f6bimage data
+block_size:b8
+min_code_size:4 blcok:
+ffffffd3
+loop pointer:1d, pos:f6fimage data
+block_size:58
+min_code_size:2e blcok:
+ffffffae
+loop pointer:fa, pos:f73image data
+block_size:92
+min_code_size:5a blcok:
+fffffff4
+loop pointer:91, pos:f77image data
+block_size:cc
+min_code_size:22 blcok:
+3a
+loop pointer: 4, pos:f7bimage data
+block_size:98
+min_code_size:75 blcok:
+26
+loop pointer: a, pos:f7fimage data
+block_size:1e
+min_code_size:bb blcok:
+3
+loop pointer:db, pos:f83image data
+block_size:61
+min_code_size:ac blcok:
+5a
+loop pointer:36, pos:f87image data
+block_size:4b
+min_code_size:7 blcok:
+4
+loop pointer: 2, pos:f8bimage data
+block_size:a6
+min_code_size:63 blcok:
+ffffffee
+loop pointer:78, pos:f8fimage data
+block_size:e7
+min_code_size:b1 blcok:
+13
+loop pointer: 1, pos:f93image data
+block_size:97
+min_code_size:54 blcok:
+1d
+loop pointer:29, pos:f97image data
+block_size: 4
+min_code_size:72 blcok:
+ffffffb5
+loop pointer:5a, pos:f9bimage data
+block_size:17
+min_code_size:35 blcok:
+b
+loop pointer: 0, pos:f9fimage data
+block_size:77
+min_code_size:bc blcok:
+31
+loop pointer:cb, pos:fa3image data
+block_size: 9
+min_code_size:e8 blcok:
+ffffffb7
+loop pointer:97, pos:fa7image data
+block_size:19
+min_code_size:28 blcok:
+67
+loop pointer:b1, pos:fabimage data
+block_size:1b
+min_code_size:20 blcok:
+36
+loop pointer:76, pos:fafimage data
+block_size:22
+min_code_size:7a blcok:
+ffffffed
+loop pointer:82, pos:fb3image data
+block_size:d4
+min_code_size:3b blcok:
+53
+loop pointer:47, pos:fb7image data
+block_size:6a
+min_code_size:20 blcok:
+ffffff9c
+loop pointer:65, pos:fbbimage data
+block_size:69
+min_code_size:d8 blcok:
+54
+loop pointer:73, pos:fbfimage data
+block_size: 5
+min_code_size:4 blcok:
+7
+loop pointer: 1, pos:fc3image data
+block_size:d1
+min_code_size:1e blcok:
+5f
+loop pointer:17, pos:fc7image data
+block_size:7b
+min_code_size:cb blcok:
+18
+loop pointer:6a, pos:fcbimage data
+block_size:52
+min_code_size:68 blcok:
+14
+loop pointer:2d, pos:fcfimage data
+block_size:d0
+min_code_size:a7 blcok:
+b
+loop pointer:dc, pos:fd3image data
+block_size:1a
+min_code_size:a0 blcok:
+3d
+loop pointer:8a, pos:fd7image data
+block_size:46
+min_code_size:3f blcok:
+fffffffa
+loop pointer:69, pos:fdbimage data
+block_size:a0
+min_code_size:0 blcok:
+53
+loop pointer:2b, pos:fdfimage data
+block_size:10
+min_code_size:7a blcok:
+ffffffda
+loop pointer:70, pos:fe3image data
+block_size:7d
+min_code_size:b blcok:
+ffffffb1
+loop pointer:b3, pos:fe7image data
+block_size:28
+min_code_size:8 blcok:
+15
+loop pointer:11, pos:febimage data
+block_size:78
+min_code_size:e0 blcok:
+ffffffcf
+loop pointer:52, pos:fefimage data
+block_size:52
+min_code_size:b2 blcok:
+44
+loop pointer:34, pos:ff3image data
+block_size: 1
+min_code_size:6a blcok:
+10
+loop pointer:bd, pos:ff7image data
+block_size:13
+min_code_size:30 blcok:
+ffffffe3
+loop pointer:1d, pos:ffbimage data
+block_size:a1
+min_code_size:50 blcok:
+45
+loop pointer:e3, pos:fffimage data
+block_size:25
+min_code_size:18 blcok:
+52
+loop pointer:13, pos:1003image data
+block_size:54
+min_code_size:91 blcok:
+4
+loop pointer: 0, pos:1007image data
+block_size: 1
+min_code_size:8 blcok:
+ffffffe6
+loop pointer:f0, pos:100bimage data
+block_size:b7
+min_code_size:2 blcok:
+fffffff0
+loop pointer:57, pos:100fimage data
+block_size:1a
+min_code_size:db blcok:
+72
+loop pointer:c6, pos:1013image data
+block_size:79
+min_code_size:ea blcok:
+70
+loop pointer: 5, pos:1017image data
+block_size:47
+min_code_size:58 blcok:
+fffffff0
+loop pointer:ab, pos:101bimage data
+block_size:10
+min_code_size:e blcok:
+28
+loop pointer:13, pos:101fimage data
+block_size: d
+min_code_size:c1 blcok:
+ffffffd2
+loop pointer:59, pos:1023image data
+block_size:a7
+min_code_size:9d blcok:
+55
+loop pointer: c, pos:1027image data
+block_size:2b
+min_code_size:5a blcok:
+ffffff8c
+loop pointer:5e, pos:102bimage data
+block_size: a
+min_code_size:84 blcok:
+ffffffbd
+loop pointer:a0, pos:102fimage data
+block_size:c1
+min_code_size:65 blcok:
+34
+loop pointer:9a, pos:1033image data
+block_size:7b
+min_code_size:5c blcok:
+5a
+loop pointer:f6, pos:1037image data
+block_size: 2
+min_code_size:70 blcok:
+1f
+loop pointer:e6, pos:103bimage data
+block_size:b0
+min_code_size:2 blcok:
+40
+loop pointer:85, pos:103fimage data
+block_size:46
+min_code_size:b8 blcok:
+15
+loop pointer:bf, pos:1043image data
+block_size: e
+min_code_size:90 blcok:
+33
+loop pointer:4a, pos:1047image data
+block_size:dd
+min_code_size:84 blcok:
+31
+loop pointer:40, pos:104bimage data
+block_size:c0
+min_code_size:a8 blcok:
+c
+loop pointer:a8, pos:104fimage data
+block_size:b1
+min_code_size:10 blcok:
+33
+loop pointer:15, pos:1053image data
+block_size:2f
+min_code_size:1b blcok:
+ffffffd1
+loop pointer: c, pos:1057image data
+block_size:eb
+min_code_size:85 blcok:
+ffffffaa
+loop pointer:fb, pos:105bimage data
+block_size:14
+min_code_size:c3 blcok:
+13
+loop pointer:f1, pos:105fimage data
+block_size:30
+min_code_size:3 blcok:
+50
+loop pointer: 2, pos:1063image data
+block_size:68
+min_code_size:54 blcok:
+4
+loop pointer:e7, pos:1067image data
+block_size:a1
+min_code_size:53 blcok:
+ffffffd2
+loop pointer:40, pos:106bimage data
+block_size:ac
+min_code_size:2b blcok:
+ffffffb0
+loop pointer:6a, pos:106fimage data
+block_size:30
+min_code_size:ee blcok:
+ffffff86
+loop pointer:4a, pos:1073image data
+block_size:55
+min_code_size:10 blcok:
+53
+loop pointer:3a, pos:1077image data
+block_size:aa
+min_code_size:45 blcok:
+ffffff90
+loop pointer:ba, pos:107bimage data
+block_size:d0
+min_code_size:a9 blcok:
+55
+loop pointer:29, pos:107fimage data
+block_size:40
+min_code_size:b blcok:
+2f
+loop pointer:81, pos:1083image data
+block_size:c5
+min_code_size:b blcok:
+10
+loop pointer:6c, pos:1087image data
+block_size:fb
+min_code_size:92 blcok:
+ffffffbb
+loop pointer:4d, pos:108bimage data
+block_size: 0
+min_code_size:e7 blcok:
+loop pointer:7c, pos:108eimage data
+block_size: a
+min_code_size:73 blcok:
+70
+loop pointer:51, pos:1092image data
+block_size:c6
+min_code_size:ba blcok:
+4b
+loop pointer:16, pos:1096image data
+block_size:55
+min_code_size:9 blcok:
+b
+loop pointer:66, pos:109aimage data
+block_size:49
+min_code_size:b blcok:
+ffffffc6
+loop pointer:cb, pos:109eimage data
+block_size: e
+min_code_size:4 blcok:
+ffffff80
+loop pointer: 0, pos:10a2image data
+block_size:43
+min_code_size:b4 blcok:
+42
+loop pointer:1d, pos:10a6image data
+block_size: 9
+min_code_size:f0 blcok:
+ffffffd3
+loop pointer:bb, pos:10aaimage data
+block_size:67
+min_code_size:bd blcok:
+ffffffd0
+loop pointer:ba, pos:10aeimage data
+block_size:fb
+min_code_size:dc blcok:
+ffffffbd
+loop pointer:e0, pos:10b2image data
+block_size:be
+min_code_size:1b blcok:
+ffffffe2
